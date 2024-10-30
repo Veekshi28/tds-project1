@@ -3,7 +3,7 @@ This repository contains data about GitHub users in London with over 500 followe
 
 ## Data Collection & Analysis
 <ul style="list-style-type: disc;">
-    <li>Data was collected using the GitHub API by scraping with Python, filtering for users in London with over 500 followers, and retrieving their most recent repositories.</li>
+    <li>Data was collected from the GitHub API by scraping users in London with over 500 followers to fetch their latest repositories using python.</li>
     <li>Many repositories in London are primarily written in JavaScript, but a notable number also include Sass.</li>
     <li>London developers should collaborate on JavaScript and Sass projects to tap into local expertise and community support.</li>
 </ul>
