@@ -4,8 +4,8 @@ This repository contains data about GitHub users in London with over 500 followe
 ## Data Collection & Analysis
 <ul style="list-style-type: disc;">
     <li>Data was collected from the GitHub API by scraping users in London with over 500 followers to fetch their latest repositories using python.</li>
-    <li>Many repositories in London are primarily written in JavaScript, but a notable number also include Sass.</li>
-    <li>London developers should collaborate on JavaScript and Sass projects to tap into local expertise and community support.</li>
+    <li>In London, many repositories use JavaScript, with Sass also notable; Facebook is the top employer, and hireable developers follow significantly more people, showing stronger networking.</li>
+    <li>London developers should focus on JavaScript for local collaborations, while job-seekers can boost prospects by networking and maintaining visible GitHub profiles.</li>
 </ul>
 
 
